@@ -4,7 +4,7 @@ is one of those nice softwares that goes vaporware...
 
 changed website many times, and had robots.txt
 
-http://ratgpu.twomini.com/
+ratgpu.twomini.com
 Benchmark verification website
 [forum](https://carbonite.co.za/index.php?threads/ratgpu-benchmark.124721/)
 
