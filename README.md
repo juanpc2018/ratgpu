@@ -24,5 +24,5 @@ Benchmark verification website </br>
 [http://www.xnormal.net/ratGPU/](https://web.archive.org/web/20120116061023/http://www.xnormal.net/ratGPU/) </br>
 
 2010 </br>
-[NVIDIA deve forum](https://forums.developer.nvidia.com/t/ratgpu-opencl-ray-tracer/18466) </br>
+[NVIDIA devel forum](https://forums.developer.nvidia.com/t/ratgpu-opencl-ray-tracer/18466) </br>
 
